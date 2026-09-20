@@ -69,3 +69,8 @@ button:hover {
         font-size : 20px;
     }
 }
+@media (min-width : 700px) and (max-width : 1400px) {
+    .calculator {
+        width : 330px;
+    }
+}
